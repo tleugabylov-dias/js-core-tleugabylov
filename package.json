@@ -1,0 +1,24 @@
+{
+  "name": "js-core-tleugabylov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tleugabylov-dias/js-core-tleugabylov.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/tleugabylov-dias/js-core-tleugabylov/issues"
+  },
+  "homepage": "https://github.com/tleugabylov-dias/js-core-tleugabylov#readme",
+  "devDependencies": {
+    "vitest": "^5.0.2"
+  }
+}
