@@ -7,19 +7,19 @@ A JavaScript project with utility functions, closures, classes, inheritance, and
 npm install
 npm test
 ```
-.Implemented functions
+## Implemented functions
 
-.unique(arr) removes duplicate values.
+unique(arr) removes duplicate values.
 
-.groupBy(arr, keyFn) groups items by a calculated key.
+groupBy(arr, keyFn) groups items by a calculated key.
 
-.chunk(arr, size) divides an array into smaller arrays.
+chunk(arr, size) divides an array into smaller arrays.
 
-.deepClone(obj) copies objects, arrays, and Date values.
+deepClone(obj) copies objects, arrays, and Date values.
 
-.memoize(fn) caches function results.
+memoize(fn) caches function results.
 
-.counter() creates a private counter.
+counter() creates a private counter.
 
 ## Store classes
 

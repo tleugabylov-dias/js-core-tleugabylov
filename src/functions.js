@@ -3,7 +3,7 @@ export function unique(arr) {
     throw new TypeError("Expected an array");
   }
 
-  return [...new Set(arr)];
+  return arr.filter((item, index) => arr.indexOf(item) === index);
 }
 
 export function groupBy(arr, keyFn) {
